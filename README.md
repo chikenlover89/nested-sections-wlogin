@@ -8,4 +8,5 @@
     * 6. Launch 'php migrate.php' command while in project folder, command should finish with 'All done!' for correct page operation
     * 7. Launch the project with command: php -S localhost:8000
     * 8. Open page localhost:8000 in your browser
+    * 9. Login with user:admin, password:admin
 
