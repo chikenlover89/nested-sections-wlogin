@@ -1,0 +1,27 @@
+.header {
+    border: 1px solid #718096;
+    padding: 10px;
+    border-radius: 10px;
+    background: lavender;
+}
+
+.formWrap {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.form {
+    text-align: left;
+    display: inline-block;
+    border: 1px solid #718096;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.data {
+    border: 1px solid #718096;
+    padding: 10px;
+    border-radius: 10px;
+}
+
